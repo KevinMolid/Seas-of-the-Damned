@@ -61,7 +61,7 @@ body {
     display: flex;
     flex-direction: column;
     z-index: 2;
-    bottom: 0;
+    bottom: 2em;
 }
 
 /* ---------- Game Screen ---------- */
